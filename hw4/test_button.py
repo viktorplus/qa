@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
-from locators import locator1, locator2
-from urls import SITE1
+from hw4.locators import locator1, locator2
+from hw4.urls import SITE1
 
 def test_button(driver):
     driver.get(SITE1)

@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from urls import HOMEPAGE
+from hw3.urls import HOMEPAGE
 
 
 @pytest.fixture

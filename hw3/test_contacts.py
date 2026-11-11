@@ -2,7 +2,7 @@ import time
 from selenium.webdriver.support import expected_conditions as EC
 
 from selenium.webdriver.common.by import By
-from locators import (locator_4_about,
+from hw3.locators import (locator_4_about,
                       locator_10_contacts_link,
                       locator_11_callback,
                       locator_12_popup_text

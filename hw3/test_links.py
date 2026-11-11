@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from locators import (locator_2_program,
+from hw3.locators import (locator_2_program,
                       locator_3_payment,
                       locator_4_about,
                       locator_5_contacts,

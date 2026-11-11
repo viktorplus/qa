@@ -1,0 +1,7 @@
+locator1 = "my-iframe"
+locator2 = "//p[contains(normalize-space(.), 'semper posuere integer et senectus justo curabitur.')]"
+locator3 = "iframe[src*='photo-manager']"
+locator4 = "//ul[@id='gallery']/li[1]"
+locator5 = "trash"
+locator6 = "//div[@id='trash']//ul/li"
+locator7 = "//ul[@id='gallery']/li"

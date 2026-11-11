@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from locators import locator_8_lang_ru, locator_9_lang_de
+from hw3.locators import locator_8_lang_ru, locator_9_lang_de
 
 
 def test_language(driver):
