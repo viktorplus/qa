@@ -10,6 +10,9 @@ __pycache__/
 venv/
 env/
 
+# Secrets
+.env
+
 # Pytest
 .pytest_cache/
 
